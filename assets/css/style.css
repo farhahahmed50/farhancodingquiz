@@ -23,3 +23,52 @@ main {
     height: 500px;
 }
   
+header {
+    background: #613a8d;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: large;
+    padding: 20px;
+}
+
+section {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    max-width: 80%;
+    margin: 0 auto;  
+}
+
+#opening-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    width: 100%;
+}
+  
+#Welcome {
+text-align: center;
+}
+    
+h1 {  
+    font-size: 35px;
+}
+  
+li {
+  font-size: 30px;
+  border: 2px solid white;
+}
+    
+li button {
+  
+    display: flex;
+    flex-direction: row;
+    background-color: #613a8d;
+    color: white;
+    font-size: large;
+    padding: 20px;
+    width: 30em;
+}
+ 
