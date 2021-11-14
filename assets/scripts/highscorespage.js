@@ -13,10 +13,10 @@ highscores();
 
 function highscores() {
 
-  if (localStorage.getItem("High-Scores") === null) {
+  if (localStorage.getItem("HighScores") === null) {
     highScore.textContent = "No highscores available.";
   } else {
-    var HighScoreEL = localStorage.getItem("High-Scores");
+    var HighScoreEL = localStorage.getItem("HighScores");
     var HighScoreObject = JSON.parse(HighScoreEL);
 
     var highscoreLi = document.createElement("ol");
