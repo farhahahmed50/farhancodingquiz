@@ -14,3 +14,31 @@ main {
     text-align: center;
 }
 
+#HighScores {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.highscoreBackground li {
+    background-color: rgb(161, 17, 161);
+    font-size: 35px;
+    border: 3px solid black;
+    margin-bottom: 5px;
+}
+#back {
+    background-color: purple;
+    color: white;
+    padding: 15px 15px;
+    border: 4px solid black;
+    border-radius: 10px;
+}
+
+#clear {
+    background-color: purple;
+    color: white;
+    padding: 15px 15px;
+    border: 4px solid black;
+    border-radius: 10px;
+}  
