@@ -186,9 +186,3 @@ function beginQuiz() {
     });
   }
   startBtn.addEventListener("click", beginQuiz);
-  © 2021 GitHub, Inc.
-  Terms
-  Privacy
-  Security
-  Status
-  
