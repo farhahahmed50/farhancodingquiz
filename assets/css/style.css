@@ -71,4 +71,38 @@ li button {
     padding: 20px;
     width: 30em;
 }
- 
+
+p {
+
+    color: black; 
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 25px;
+}
+
+button {
+  
+    color: white;
+    background-color: #41275e;
+    border: 3px solid black;
+}
+    
+#startbtn {  
+    background-color: purple;    
+    color: white;  
+    padding: 15px 15px;
+    border: 0;
+    border-radius: 10px;
+    border: 3px solid black;
+    margin-top: 20px;
+}
+      
+#startbtn:hover {
+    background-color: white;
+    color: purple;
+    transition-duration: 0.5s;
+}
+
+#rLabel {
+    font-size: 30px;
+  }
+  
