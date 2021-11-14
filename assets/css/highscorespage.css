@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    background-color: rgb(255, 123, 0);
+}
+
+main {
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 40px;
+    padding: 5pt;
+    text-align: center;
+}
+
